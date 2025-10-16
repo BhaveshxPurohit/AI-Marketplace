@@ -92,7 +92,3 @@ AI Marketplace is deployed via [Vercel](https://vercel.com/):
 
 ---
 
-Developed by [Bhavanish Dhamnaskar](https://github.com/Bhavanish19)
-
-🔗 [View Repository](https://github.com/Bhavanish19/ai-marketplace) | [Live Demo]([https://ai-marketplace.vercel.app/](https://ai-marketplace-smoky.vercel.app/))
-
