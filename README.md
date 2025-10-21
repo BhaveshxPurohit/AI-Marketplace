@@ -55,7 +55,7 @@ Welcome to **AI Marketplace**, a next-generation platform built to revolutionize
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Bhavanish19/ai-marketplace.git
+git clone https://github.com/Bhavanish19/ai-marketplace.git](https://github.com/BhaveshxPurohit/AI-Marketplace.git)
 cd ai-marketplace
 ```
 
